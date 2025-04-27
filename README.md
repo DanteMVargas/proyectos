@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # proyectos
 Proyectos personales, cargando...
 =======
